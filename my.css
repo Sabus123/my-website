@@ -1,5 +1,11 @@
 h2{
     color: green;
+    border-bottom: 20px solid red;
     text-align: center;
-    
+
+}
+div{
+    background-image: url('image/target.jpeg');
+    background-position: center;
+    background-size: cover;
 }
